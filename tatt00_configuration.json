@@ -1,11 +1,4 @@
 {
-    "latest_version":"1.2.7",
-    "is_reviewing":0,
-    "isShowAfterSeconds":true,
-    "category_url":"",
-    "admob_app_id":"",
-    "admob_banner_id":"",
-    "admob_interstitial_id":"",
-    "startapp_dev_id":"",
-    "startapp_app_id":""
+    "latest_version":"1.2.8",
+    "is_reviewing":1
 }
